@@ -1,0 +1,12 @@
+html,body
+{
+	height: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font: normal 95%/150% $base-font, Arial, sans-serif;
+	background-color: $base-background-color;
+	position: relative;
+}
